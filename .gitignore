@@ -1,5 +1,2 @@
-# Ignore all .terraform* files
-**/*.terraform*
-
-# Ignore all .tfstate files
-**/*.tfstate
+.env
+.terraform*
